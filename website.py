@@ -7,7 +7,7 @@ st.title("Hello, I am Harshit")
 st.header("About Me")
 st.write("I’m Harshit Nagar, a 19-year-old from Kota, Rajasthan, currently pursuing a B.Tech in Computer Science and Engineering with a focus on Artificial Intelligence and Machine Learning at JECRC University. I’m passionate about leveraging AI to tackle real-world challenges and drive innovation.")
 
-st.write("I have created this website using Python
+st.write("I have created this website using Python")
 
 st.subheader("Connect with Me :-")
 st.write("[Git Hub](https://github.com/harshitnagar22)")
