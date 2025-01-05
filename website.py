@@ -9,7 +9,8 @@ st.write("I’m Harshit Nagar, a 19-year-old from Kota, Rajasthan, currently pur
 
 st.write("I have created this website using Python")
 
-st.header("Prashant Nagar")
+st.write("Hello my name is zuzi that zuzi with the zzzzzzz")
+st.subheade("zuzzzzzzzzzzzzzziiiiiiiii")
 
 st.subheader("Connect with Me :-")
 st.write("[Git Hub](https://github.com/harshitnagar22)")
